@@ -1,0 +1,18 @@
+h1{
+color:rgb(61, 210, 255)    
+}
+
+.header{
+    background-color: aqua;
+    display:flex;
+    justify-content:space-evenly;
+}
+.grid{
+    display:flex;
+    justify-content:space-around;
+    flex-wrap:wrap;
+   }
+.footer{
+    display:flex;
+    justify-content:space-evenly;
+  }
